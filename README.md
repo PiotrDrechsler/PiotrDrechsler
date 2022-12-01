@@ -1,4 +1,4 @@
-# PotrDrechsler
+Hi there, I'm Piotr! 👋
 
 ## Skills
 
