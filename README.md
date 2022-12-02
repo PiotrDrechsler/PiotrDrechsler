@@ -1,4 +1,4 @@
-### <div align="center">I'm Piotr,</div>  
+### <div align="center">I'm Piotr, Junior Front-End developer. I focus on HTML5, CSS3, JS, REACT. I am looking for remote work. Developmental and creative work is important to me. </div>
   
 
 - 🔭 I’m currently working on [React basics](https://github.com/PiotrDrechsler/goit-react-hw-01-components)  
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning React and Node.js  
   
 
-- ⚡ Fun fact: I cry when I watch "Revenge of the Sith".  
+- ⚡ Fun fact: I get emotional when I watch the ending of "Revenge of the Sith".
   
 
 <br/>  
