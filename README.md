@@ -1,11 +1,17 @@
-### <div align="center">I'm Piotr, Junior Front-End developer. I focus on HTML5, CSS3, JS, REACT. I am looking for remote work. Developmental and creative work is important to me. </div>
+### <div align="center">I'm Piotr, Junior Front-End developer. I focus on HTML5, CSS3, JS, REACT. Developmental and creative work is important to me. I am looking for a programming job. </div>
+  
+  
+  
   
 
 - 🔭 I’m currently working on [React basics](https://github.com/PiotrDrechsler/goit-react-hw-01-components)  
+
+
+- :corn: Group projects I've participated in
   
 
 - 🌱 I’m currently learning React and Node.js  
-  
+
 
 - ⚡ Fun fact: I get emotional when I watch the ending of "Revenge of the Sith".
   
