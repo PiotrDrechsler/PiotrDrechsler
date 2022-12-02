@@ -1,4 +1,4 @@
-### <div align="center">I'm Piotr, Junior Front-End developer. I focus on HTML5, CSS3, JS, REACT. Developmental and creative work is important to me. I am looking for a programming job. </div>
+### <div align="center">Hi! I'm Piotr, Junior Front-End developer. My journey with programing started when i finaly relized that i love to solving problems with creativity. My tools  of working choice mostly are: JS, CSS3, HTML5 and React.</div>
   
   
   
