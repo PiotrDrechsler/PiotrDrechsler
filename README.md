@@ -1,8 +1,4 @@
-### <div align="center">Hi! I'm Piotr, Junior Front-End developer. My journey with programing started when i finaly relized that i love to solving problems with creativity. My tools  of working choice mostly are: JS, CSS3, HTML5 and React.</div>
-  
-  
-  
-  
+### <div align="center">Hi! I'm Piotr, Junior Front-End developer. My journey with programing started when I finaly relized that I love to solving problems with creativity. My tools of working choice mostly are: JS, CSS3, HTML5 and React.</div>
 
 - 🔭 I’m currently working on [React basics](https://github.com/PiotrDrechsler/goit-react-hw-01-components)  
 
