@@ -1,4 +1,4 @@
-### <div align="center">Hi! I'm Piotr, begginer developer. My journey with programing started when I finaly relized that I love to solve problems with creativity. My tools of choice mostly are: JavaScript, CSS3, HTML5 and React.</div>
+### <div align="center">"Hi! I'm Piotr, hopefully soon to be Junior Front-End developer. My journey with programing started when I finaly relized that I love to solve problems with creativity! My tools of choice for now are mostly: JavaScript, CSS3, HTML5 and React.</div>
 
 - 🔭 I’m currently working on [React basics](https://github.com/PiotrDrechsler/goit-react-hw-01-components)  
 
