@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on [React basics](https://github.com/PiotrDrechsler/goit-react-hw-01-components)  
 - 🌽 Group projects I've participated in:
-   - [EVENT BOOSTER](https://github.com/EwelinaManiecka/event-booster-team-project)
-   - [IceCream website](https://github.com/LuizaRaczylo/project-team6)
+   - [EVENT BOOSTER](https://ewelinamaniecka.github.io/event-booster-team-project) Scrum Master and Developer 
+   - [IceCream website](https://luizaraczylo.github.io/project-team6/) Developer
 - 💻 Personal projects:
    - [Pixabay API image search engine](https://github.com/PiotrDrechsler/Pixabay-API-image-search-engine)
    - [RestCountries v2 API country search engine](https://piotrdrechsler.github.io/Rest-Countries-v2-API-country-search-engine/)
