@@ -59,15 +59,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrDrechsler&hide_border=true&layout=compact" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PiotrDrechsler&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11169550029&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
