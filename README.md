@@ -6,7 +6,7 @@
    - [IceCream website](https://github.com/LuizaRaczylo/project-team6)
 - 💻 Personal projects:
    - [Pixabay API image search engine](https://github.com/PiotrDrechsler/Pixabay-API-image-search-engine)
-   - [RestCountries v2 API country search engine](https://github.com/PiotrDrechsler/Rest-Countries-v2-API-country-search-engine)
+   - [RestCountries v2 API country search engine](https://piotrdrechsler.github.io/Rest-Countries-v2-API-country-search-engine/)
 - 🌱 I’m currently learning React and Node.js  
 
 
