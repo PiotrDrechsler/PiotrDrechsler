@@ -5,8 +5,8 @@
    - [EVENT BOOSTER](https://ewelinamaniecka.github.io/event-booster-team-project) Scrum Master and Developer 
    - [IceCream website](https://luizaraczylo.github.io/project-team6/) Developer
 - 💻 Personal projects:
-   - [Pixabay API image search engine](https://github.com/PiotrDrechsler/Pixabay-API-image-search-engine)
-   - [RestCountries v2 API country search engine](https://piotrdrechsler.github.io/Rest-Countries-v2-API-country-search-engine/)
+   - [Pixabay API image search engine](https://piotrdrechsler.github.io/goit-js-hw-11)
+   - [RestCountries v2 API country search engine](https://piotrdrechsler.github.io/goit-js-hw-10)
 - 🌱 I’m currently learning React and Node.js  
 
 
