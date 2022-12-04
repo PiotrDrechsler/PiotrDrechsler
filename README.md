@@ -59,7 +59,7 @@
 </a>  
 </div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=piotrdrechsler&theme=transparent_icons=true"/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=piotrdrechsler&theme=transparent"/>/div> 
   
 <br/>  
 
