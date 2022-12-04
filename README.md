@@ -7,6 +7,10 @@
 - 💻 Personal projects:
    - [Pixabay API image search engine](https://piotrdrechsler.github.io/goit-js-hw-11)
    - [RestCountries v2 API country search engine](https://piotrdrechsler.github.io/goit-js-hw-10)
+   - [Color Switcher](https://piotrdrechsler.github.io/goit-js-hw-09/01-color-switcher.html)
+   - [Countdown Timer](https://piotrdrechsler.github.io/goit-js-hw-09/02-timer.html)
+   - [Promise Generator](https://piotrdrechsler.github.io/goit-js-hw-09/03-promises.html)
+   - [Image Gallery](https://piotrdrechsler.github.io/goit-js-hw-08/01-gallery.html)
 - 🌱 I’m currently learning React and Node.js  
 
 
