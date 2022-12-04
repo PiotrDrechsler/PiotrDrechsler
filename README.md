@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on [React basics](https://github.com/PiotrDrechsler/goit-react-hw-01-components)  
 
 
-- :corn: Group projects I've participated in
+- :corn: Group projects I've participated in:
+   - [EVENT BOOSTER](https://github.com/sarah-hart-landolt/Paris-Passe-Partout**) 
+  
   
 
 - 🌱 I’m currently learning React and Node.js  
