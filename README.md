@@ -1,6 +1,6 @@
 ### <div align="center">Hi! I'm Piotr, hopefully soon to be Junior Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: JavaScript, CSS3, HTML5 and React.</div>
 
-- 🔭 I’m currently working on [React basics](https://github.com/PiotrDrechsler/goit-react-hw-01-components)  
+- 🔭 Right now I'm working on [React basics](https://github.com/PiotrDrechsler/goit-react-hw-01-components)  
 - 🌽 Group projects I've participated in:
    - [EVENT BOOSTER](https://ewelinamaniecka.github.io/event-booster-team-project) Scrum Master and Developer 
    - [IceCream website](https://luizaraczylo.github.io/project-team6/) Developer
