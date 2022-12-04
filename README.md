@@ -4,7 +4,7 @@
 
 
 - :corn: Group projects I've participated in:
-   - [EVENT BOOSTER](https://github.com/sarah-hart-landolt/Paris-Passe-Partout**) 
+   - [EVENT BOOSTER](https://github.com/EwelinaManiecka/event-booster-team-project)) 
   
   
 
