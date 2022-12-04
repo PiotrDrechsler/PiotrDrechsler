@@ -4,10 +4,10 @@
 
 
 - :corn: Group projects I've participated in:
-   - [EVENT BOOSTER](https://github.com/EwelinaManiecka/event-booster-team-project)) 
+   - [EVENT BOOSTER](https://github.com/EwelinaManiecka/event-booster-team-project)
+   - [IceCream website](https://github.com/LuizaRaczylo/project-team6)
   
   
-
 - 🌱 I’m currently learning React and Node.js  
 
 
