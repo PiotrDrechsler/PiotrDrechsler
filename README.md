@@ -1,4 +1,4 @@
-### <div align="center">Hi! I'm Piotr, hopefully soon to be Junior Fullstack Developer. My journey with programming started when I finaly realised that I love to solve problems with creativity! My tools of choice for now are mostly: JavaScript, CSS3, HTML5 and React.</div>
+### <div align="center">Hi! I'm Piotr, hopefully soon to be Junior Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: JavaScript, CSS3, HTML5 and React.</div>
 
 - 🔭 I’m currently working on [React basics](https://github.com/PiotrDrechsler/goit-react-hw-01-components)  
 - 🌽 Group projects I've participated in:
@@ -13,13 +13,9 @@
    - [Image Gallery](https://piotrdrechsler.github.io/goit-js-hw-08/01-gallery.html)
    - [WebStudio Website](https://piotrdrechsler.github.io/goit-markup-hw-08/)
 - 🌱 I’m currently learning React and Node.js  
-
-
 - ⚡ Fun fact: I get emotional when I watch the ending of "Revenge of the Sith".
   
-
 <br/>  
-
 
 ## My Skill Set  
 <div align="center">
