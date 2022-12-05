@@ -1,4 +1,4 @@
-### <div align="center">I'm Piotr, soon-to-be Junior Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: JavaScript, CSS3, HTML5 and React.</div>
+### <div align="center">I'm Piotr, soon-to-be JavaScript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: JavaScript, CSS3, HTML5 and React.</div>
 
 - 🔭 Right now I'm working on [React basics](https://github.com/PiotrDrechsler/goit-react-hw-01-components)  
 - 🌽 Group projects I've participated in:
