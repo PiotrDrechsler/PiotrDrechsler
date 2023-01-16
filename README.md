@@ -65,5 +65,5 @@
 <img src="https://komarev.com/ghpvc/?username=PiotrDrechsler&&style=flat-square" align="center" />
 </div>  
 
-<br />.
+<br />
 
