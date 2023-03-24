@@ -1,7 +1,6 @@
 ### <div align="center">I'm Piotr, soon-to-be JavaScript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: JavaScript, CSS3, HTML5 and React.</div>
 
-- 🔭 Right now I'm working on [React Feedback](https://piotrdrechsler.github.io/goit-react-hw-02-feedback) and [React Phonebook](https://piotrdrechsler.github.io/goit-react-hw-02-phonebook)
-- 🌽 Group projects I've participated in:
+- 🔭 Right now I'm working on [Node.js](https://github.com/PiotrDrechsler/goit-node-hw-02)
    - [EVENT BOOSTER](https://ewelinamaniecka.github.io/event-booster-team-project) Scrum Master and Developer 
    - [IceCream website](https://luizaraczylo.github.io/project-team6/) Developer
 - 💻 Personal projects:
