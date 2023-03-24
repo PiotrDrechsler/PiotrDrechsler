@@ -1,11 +1,16 @@
 ### <div align="center">I'm Piotr, soon-to-be JavaScript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: JavaScript, CSS3, HTML5 and React.</div>
 
 - 🔭 Right now I'm working on [MongoDB with Node.js](https://github.com/PiotrDrechsler/goit-node-hw-02)
+- 🌽 Group projects I've participated in:
    - [EVENT BOOSTER](https://ewelinamaniecka.github.io/event-booster-team-project) Scrum Master and Developer 
    - [IceCream website](https://luizaraczylo.github.io/project-team6/) Developer
 - 💻 Personal projects:
    - React.js:
-      -
+      - [Phonebook app with Redux Toolkit](https://piotrdrechsler.github.io/goit-react-hw-08-phonebook/)
+      - [Movie search engine in React based on the themoviedb.org API](https://piotrdrechsler.github.io/)
+      - [Image finder for Pixabay API made with React Hooks](https://piotrdrechsler.github.io/goit-react-hw-04-images/)
+      - [Feedback made with React Hooks](https://piotrdrechsler.github.io/goit-react-hw-04-feedback/)
+      - [React basic components](https://piotrdrechsler.github.io/goit-react-hw-01-components/)
    - Javascript:
       - [Pixabay API image search engine](https://piotrdrechsler.github.io/goit-js-hw-11)
       - [RestCountries v2 API country search engine](https://piotrdrechsler.github.io/goit-js-hw-10)
