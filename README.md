@@ -5,14 +5,18 @@
    - [EVENT BOOSTER](https://ewelinamaniecka.github.io/event-booster-team-project) Scrum Master and Developer 
    - [IceCream website](https://luizaraczylo.github.io/project-team6/) Developer
 - 💻 Personal projects:
-   - [Pixabay API image search engine](https://piotrdrechsler.github.io/goit-js-hw-11)
-   - [RestCountries v2 API country search engine](https://piotrdrechsler.github.io/goit-js-hw-10)
-   - [Color Switcher](https://piotrdrechsler.github.io/goit-js-hw-09/01-color-switcher.html)
-   - [Countdown Timer](https://piotrdrechsler.github.io/goit-js-hw-09/02-timer.html)
-   - [Promise Generator](https://piotrdrechsler.github.io/goit-js-hw-09/03-promises.html)
-   - [Image Gallery](https://piotrdrechsler.github.io/goit-js-hw-08/01-gallery.html)
-   - [WebStudio Website](https://piotrdrechsler.github.io/goit-markup-hw-08/)
-- 🌱 I’m currently learning React and Node.js  
+   - React.js:
+      -
+   - Javascript:
+      - [Pixabay API image search engine](https://piotrdrechsler.github.io/goit-js-hw-11)
+      - [RestCountries v2 API country search engine](https://piotrdrechsler.github.io/goit-js-hw-10)
+      - [Color Switcher](https://piotrdrechsler.github.io/goit-js-hw-09/01-color-switcher.html)
+      - [Countdown Timer](https://piotrdrechsler.github.io/goit-js-hw-09/02-timer.html)
+      - [Promise Generator](https://piotrdrechsler.github.io/goit-js-hw-09/03-promises.html)
+      - [Image Gallery](https://piotrdrechsler.github.io/goit-js-hw-08/01-gallery.html)
+   - HTML + CSS:
+      - [WebStudio Website](https://piotrdrechsler.github.io/goit-markup-hw-08/)
+- 🌱 I’m currently learning Node.js  
 - ⚡ Fun fact: I get emotional when I watch the ending of "Revenge of the Sith".
   
 <br/>  
