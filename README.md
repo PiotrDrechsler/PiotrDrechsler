@@ -7,7 +7,7 @@
 - 💻 Personal projects:
    - React.js:
       - [Phonebook app with Redux Toolkit](https://piotrdrechsler.github.io/goit-react-hw-08-phonebook/)
-      - [Movie search engine in React based on the themoviedb.org API](https://piotrdrechsler.github.io/)
+      - [Movie search engine in React based on the themoviedb.org API](https://github.com/PiotrDrechsler/goit-react-hw-05-movies)
       - [Image finder for Pixabay API made with React Hooks](https://piotrdrechsler.github.io/goit-react-hw-04-images/)
       - [Feedback made with React Hooks](https://piotrdrechsler.github.io/goit-react-hw-04-feedback/)
       - [React basic components](https://piotrdrechsler.github.io/goit-react-hw-01-components/)
