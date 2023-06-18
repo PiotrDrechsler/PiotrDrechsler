@@ -1,6 +1,6 @@
 ### <div align="center">I'm Piotr, soon-to-be JavaScript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: JavaScript, React, Node.js, CSS3, HTML5</div>
 
-- 🔭 Right now I'm working on [Imagin-E-Forge](soon)
+- 🔭 Right now I'm working on [IMG-E-FORGE]((https://github.com/PiotrDrechsler/IMG-E-FORGE)
 - 🌽 Group projects I've participated in:
    - [WALLET API](https://github.com/AMichalMurawski/walletapp-api) | [repo](https://github.com/AMichalMurawski/walletapp-api) Scrum Master and Developer
    - [WALLET APP](https://flourishing-sherbet-fc5f8a.netlify.app/) | [repo](https://github.com/AMichalMurawski/walletapp) Scrum Master and Developer
