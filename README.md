@@ -5,6 +5,8 @@
    - [EVENT BOOSTER](https://ewelinamaniecka.github.io/event-booster-team-project) Scrum Master and Developer 
    - [IceCream website](https://luizaraczylo.github.io/project-team6/) Developer
 - 💻 Personal projects:
+   - Node.js:
+      - [Phonebook REST API](https://github.com/PiotrDrechsler/phonebookAPI)
    - React.js:
       - [Phonebook app with Redux Toolkit](https://piotrdrechsler.github.io/goit-react-hw-08-phonebook/)
       - [Movie search engine in React based on the themoviedb.org API](https://github.com/PiotrDrechsler/goit-react-hw-05-movies)
