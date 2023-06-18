@@ -1,4 +1,4 @@
-### <div align="center">I'm Piotr, soon-to-be JavaScript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: JavaScript, CSS3, HTML5 and React.</div>
+### <div align="center">I'm Piotr, soon-to-be JavaScript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: JavaScript, React, Node.js CSS3, HTML5</div>
 
 - 🔭 Right now I'm working on [MongoDB with Node.js](https://github.com/PiotrDrechsler/goit-node-hw-02)
 - 🌽 Group projects I've participated in:
