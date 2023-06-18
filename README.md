@@ -1,28 +1,30 @@
 ### <div align="center">I'm Piotr, soon-to-be JavaScript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: JavaScript, React, Node.js, CSS3, HTML5</div>
 
-- 🔭 Right now I'm working on [MongoDB with Node.js](https://github.com/PiotrDrechsler/goit-node-hw-02)
+- 🔭 Right now I'm working on [Imagin-E-Forge](soon)
 - 🌽 Group projects I've participated in:
-   - [EVENT BOOSTER](https://ewelinamaniecka.github.io/event-booster-team-project) Scrum Master and Developer 
-   - [IceCream website](https://luizaraczylo.github.io/project-team6/) Developer
+   - [WALLET API](https://github.com/AMichalMurawski/walletapp-api) | [repo](https://github.com/AMichalMurawski/walletapp-api) Scrum Master and Developer
+   - [WALLET APP](https://flourishing-sherbet-fc5f8a.netlify.app/) | [repo](https://github.com/AMichalMurawski/walletapp) Scrum Master and Developer
+   - [EVENT BOOSTER](https://ewelinamaniecka.github.io/event-booster-team-project) | [repo](https://github.com/EwelinaManiecka/event-booster-team-project) Scrum Master and Developer 
+   - [IceCream website](https://luizaraczylo.github.io/project-team6/) | [repo](https://github.com/LuizaRaczylo/project-team6) Developer 
 - 💻 Personal projects:
    - Node.js:
       - [Phonebook REST API](https://github.com/PiotrDrechsler/phonebookAPI)
    - React.js:
       - [Phonebook app with Redux Toolkit](https://piotrdrechsler.github.io/goit-react-hw-08-phonebook/) | [repo](https://github.com/PiotrDrechsler/goit-react-hw-08-phonebook)
       - [Movie search engine in React based on the themoviedb.org API](https://piotrdrechsler.github.io/goit-react-hw-05-movies/) | [repo](https://github.com/PiotrDrechsler/goit-react-hw-05-movies)
-      - [Image finder for Pixabay API made with React Hooks](https://piotrdrechsler.github.io/goit-react-hw-04-images/)
-      - [Feedback made with React Hooks](https://piotrdrechsler.github.io/goit-react-hw-04-feedback/)
-      - [React basic components](https://piotrdrechsler.github.io/goit-react-hw-01-components/)
+      - [Image finder for Pixabay API made with React Hooks](https://piotrdrechsler.github.io/goit-react-hw-04-images/) | [repo](https://github.com/PiotrDrechsler/goit-react-hw-04-images)
+      - [Feedback made with React Hooks](https://piotrdrechsler.github.io/goit-react-hw-04-feedback/) | [repo](https://github.com/PiotrDrechsler/goit-react-hw-04-feedback)
+      - [React basic components](https://piotrdrechsler.github.io/goit-react-hw-01-components/) | [repo](https://github.com/PiotrDrechsler/goit-react-hw-01-components)
    - Javascript:
-      - [Pixabay API image search engine](https://piotrdrechsler.github.io/goit-js-hw-11)
-      - [RestCountries v2 API country search engine](https://piotrdrechsler.github.io/goit-js-hw-10)
-      - [Color Switcher](https://piotrdrechsler.github.io/goit-js-hw-09/01-color-switcher.html)
-      - [Countdown Timer](https://piotrdrechsler.github.io/goit-js-hw-09/02-timer.html)
-      - [Promise Generator](https://piotrdrechsler.github.io/goit-js-hw-09/03-promises.html)
-      - [Image Gallery](https://piotrdrechsler.github.io/goit-js-hw-08/01-gallery.html)
+      - [Pixabay API image search engine](https://piotrdrechsler.github.io/goit-js-hw-11) | [repo](https://github.com/PiotrDrechsler/goit-js-hw-11)
+      - [RestCountries v2 API country search engine](https://piotrdrechsler.github.io/goit-js-hw-10) | [repo](https://github.com/PiotrDrechsler/goit-js-hw-10)
+      - [Color Switcher](https://piotrdrechsler.github.io/goit-js-hw-09/01-color-switcher.html) | [repo](https://github.com/PiotrDrechsler/goit-js-hw-09)
+      - [Countdown Timer](https://piotrdrechsler.github.io/goit-js-hw-09/02-timer.html) | [repo](https://github.com/PiotrDrechsler/goit-js-hw-09)
+      - [Promise Generator](https://piotrdrechsler.github.io/goit-js-hw-09/03-promises.html) | [repo](https://github.com/PiotrDrechsler/goit-js-hw-09)
+      - [Image Gallery](https://piotrdrechsler.github.io/goit-js-hw-08/01-gallery.html) | [repo](https://github.com/PiotrDrechsler/goit-js-hw-08)
    - HTML + CSS:
-      - [WebStudio Website](https://piotrdrechsler.github.io/goit-markup-hw-08/)
-- 🌱 I’m currently learning Node.js  
+      - [WebStudio Website](https://piotrdrechsler.github.io/goit-markup-hw-08/) | [repo](https://github.com/PiotrDrechsler/goit-markup-hw-08)
+- 🌱 I’m currently learning Node.js, Typescript and Material UI
 - ⚡ Fun fact: I get emotional when I watch the ending of "Revenge of the Sith".
   
 <br/>  
