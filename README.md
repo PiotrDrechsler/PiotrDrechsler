@@ -5,7 +5,7 @@
    - [WALLET API](https://github.com/AMichalMurawski/walletapp-api) | [repo](https://github.com/AMichalMurawski/walletapp-api) Scrum Master and Developer
    - [WALLET APP](https://flourishing-sherbet-fc5f8a.netlify.app/) | [repo](https://github.com/AMichalMurawski/walletapp) Scrum Master and Developer
    - [EVENT BOOSTER](https://ewelinamaniecka.github.io/event-booster-team-project) | [repo](https://github.com/EwelinaManiecka/event-booster-team-project) Scrum Master and Developer 
-   - [IceCream website](https://luizaraczylo.github.io/project-team6/) | [repo](https://github.com/LuizaRaczylo/project-team6) Developer 
+   - [IceCream website](https://luizaraczylo.github.io/project-team6/) | [repo](https://github.com/LuizaRaczylo/project-team6) Developer  
 - 💻 Personal projects:
    - Node.js:
       - [Phonebook REST API](https://github.com/PiotrDrechsler/phonebookAPI)
