@@ -24,7 +24,7 @@
       - [Image Gallery](https://piotrdrechsler.github.io/goit-js-hw-08/01-gallery.html) | [repo](https://github.com/PiotrDrechsler/goit-js-hw-08)
    - HTML + CSS:
       - [WebStudio Website](https://piotrdrechsler.github.io/goit-markup-hw-08/) | [repo](https://github.com/PiotrDrechsler/goit-markup-hw-08)
-- 🌱 I’m currently learning Typescript and Tailwind
+- 🌱 I’m currently learning Typescript and Tailwind.
 - ⚡ Fun fact: I get emotional when I watch the ending of "Revenge of the Sith".
   
 <br/>  
