@@ -1,12 +1,15 @@
-### <div align="center">I'm Piotr, JavaScript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: JavaScript, React, Node.js, CSS3, HTML5</div>
+### <div align="center">I'm Piotr, JavaScript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: React.js, JavaScript, TypeStcipt, Node.js, CSS3 and HTML5</div>
 
-- 🔭 Right now I'm working on [IMG-E-FORGE](https://github.com/PiotrDrechsler/IMG-E-FORGE)
+- 🔭 Right now I'm working in team on [HEMATORUN CHARITY EVENT](https://astrix1234.github.io/charity-run/) | [repo](https://github.com/Astrix1234/charity-run) Scrum Master and Fullstack Developer
 - 🌽 Group projects I've participated in:
+   - [UWAGA! SMARTFON](https://us.uwagasmartfon.pl/) | [repo](https://github.com/barteknr1/uwaga-smartfon) Scrum Master and Developer
    - [WALLET API](https://github.com/AMichalMurawski/walletapp-api) | [repo](https://github.com/AMichalMurawski/walletapp-api) Scrum Master and Developer
    - [WALLET APP](https://flourishing-sherbet-fc5f8a.netlify.app/) | [repo](https://github.com/AMichalMurawski/walletapp) Scrum Master and Developer
    - [EVENT BOOSTER](https://ewelinamaniecka.github.io/event-booster-team-project) | [repo](https://github.com/EwelinaManiecka/event-booster-team-project) Scrum Master and Developer 
    - [IceCream website](https://luizaraczylo.github.io/project-team6/) | [repo](https://github.com/LuizaRaczylo/project-team6) Developer  
 - 💻 Personal projects:
+   - Node.js + React.js:
+      - [IMG-E-FORGE](https://github.com/PiotrDrechsler/IMG-E-FORGE)
    - Node.js:
       - [Phonebook REST API](https://github.com/PiotrDrechsler/phonebookAPI)
    - React.js:
