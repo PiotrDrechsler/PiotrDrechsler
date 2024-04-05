@@ -9,7 +9,7 @@
    - [IceCream website](https://luizaraczylo.github.io/project-team6/) | [repo](https://github.com/LuizaRaczylo/project-team6) Developer  
 - 💻 Personal projects:
    - Node.js + React.js:
-      - [IMG-E-FORGE](https://github.com/PiotrDrechsler/IMG-E-FORGE)
+      - [IMG-E-FORGE](https://github.com/PiotrDrechsler/IMG-E-FORGE) (wip)
    - Node.js:
       - [Phonebook REST API](https://github.com/PiotrDrechsler/phonebookAPI)
    - React.js:
