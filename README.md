@@ -1,4 +1,4 @@
-### <div align="center">I'm Piotr, JavaScript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: React.js, JavaScript, TypeScript, Zustand, Tailwind, Node.js, CSS3 and HTML5</div>
+### <div align="center">I'm Piotr, JavaScript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: React.js, JavaScript, TypeScript, Zustand, Tailwind, Node.js, CSS3 and HTML5.</div>
 
 - 🔭 Right now I'm working wih my team on [HEMATORUN CHARITY EVENT](https://astrix1234.github.io/charity-run/) | [repo](https://github.com/Astrix1234/charity-run) Scrum Master and Fullstack Developer
 - 🌽 Group projects I've participated in:
