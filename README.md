@@ -1,6 +1,6 @@
 ### <div align="center">I'm Piotr, JavaScript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: React.js, JavaScript, TypeScript, Zustand, Tailwind, Node.js, CSS3 and HTML5.</div> 
   
-- 🔭 Right now I'm working wih my team on [HEMATORUN CHARITY EVENT](https://astrix1234.github.io/charity-run/) | [repo](https://github.com/Astrix1234/charity-run) Scrum Master and Fullstack Developer
+- 🔭 Right now I'm working wih my team on [HEMATORUN CHARITY EVENT](https://www.hematobieg.fundacja.hematologiczna.org/) | [repo](https://github.com/Astrix1234/charity-run) Scrum Master and Fullstack Developer
 - 🌽 Group projects I've participated in:
    - [UWAGA! SMARTFON](https://us.uwagasmartfon.pl/) | [repo](https://github.com/barteknr1/uwaga-smartfon) Scrum Master and Developer
    - [WALLET API](https://github.com/AMichalMurawski/walletapp-api) | [repo](https://github.com/AMichalMurawski/walletapp-api) Scrum Master and Developer
