@@ -8,7 +8,7 @@
    - [EVENT BOOSTER](https://ewelinamaniecka.github.io/event-booster-team-project) | [repo](https://github.com/EwelinaManiecka/event-booster-team-project) Scrum Master and Developer 
    - [IceCream website](https://luizaraczylo.github.io/project-team6/) | [repo](https://github.com/LuizaRaczylo/project-team6) Developer  
 - 💻 Personal projects:
--    - React Native + Expo + Nativewind:
+   - React Native + Expo + Nativewind:
       - [IMG-FORGE](https://github.com/PiotrDrechsler/img-forge) (wip)
    - Node.js + React.js:
       - [IMG-E-FORGE](https://github.com/PiotrDrechsler/IMG-E-FORGE) (wip)
