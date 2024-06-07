@@ -2,7 +2,7 @@
   
 - 🔭 Right now I'm working wih my team on [BUTEM PO MIEŚCIE](https://butempomiescie.pl/) | [repo](https://github.com/butempomiesciepoznan/butem-nuxt/wiki) Frontend Developer
 - 🌽 Group projects I've participated in:
-   - [HEMATORUN CHARITY EVENT](https://jolly-island-02c410b1e.5.azurestaticapps.net/) | [frotnend repo](https://github.com/Astrix1234/charity-run)  [backend repo](https://github.com/Astrix1234/charity-run-backend) Scrum Master and Fullstack Developer
+   - [HEMATORUN CHARITY EVENT](https://jolly-island-02c410b1e.5.azurestaticapps.net/) | [frotnend repo](https://github.com/Astrix1234/charity-run) and [backend repo](https://github.com/Astrix1234/charity-run-backend) Scrum Master and Fullstack Developer
    - [UWAGA! SMARTFON](https://us.uwagasmartfon.pl/) | [repo](https://github.com/barteknr1/uwaga-smartfon) Scrum Master and Frontend Developer
    - [WALLET API](https://github.com/AMichalMurawski/walletapp-api) | [repo](https://github.com/AMichalMurawski/walletapp-api) Scrum Master and Bakcend Developer
    - [WALLET APP](https://flourishing-sherbet-fc5f8a.netlify.app/) | [repo](https://github.com/AMichalMurawski/walletapp) Scrum Master and Frotnend Developer
