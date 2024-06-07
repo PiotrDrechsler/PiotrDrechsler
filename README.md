@@ -1,13 +1,13 @@
 ### <div align="center">I'm Piotr, Javascript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: React.js, React Native, JavaScript, TypeScript, Zustand, Tailwind, Node.js, CSS3 and HTML5.</div> 
   
-- 🔭 Right now I'm working wih my team on [BUTEM PO MIEŚCIE](https://butempomiescie.pl/) | [repo](https://github.com/butempomiesciepoznan/butem-nuxt/wiki) Developer
+- 🔭 Right now I'm working wih my team on [BUTEM PO MIEŚCIE](https://butempomiescie.pl/) | [repo](https://github.com/butempomiesciepoznan/butem-nuxt/wiki) Frontend Developer
 - 🌽 Group projects I've participated in:
    - [HEMATORUN CHARITY EVENT](https://jolly-island-02c410b1e.5.azurestaticapps.net/) | [frotnend repo](https://github.com/Astrix1234/charity-run)  [backend repo](https://github.com/Astrix1234/charity-run-backend) Scrum Master and Fullstack Developer
-   - [UWAGA! SMARTFON](https://us.uwagasmartfon.pl/) | [repo](https://github.com/barteknr1/uwaga-smartfon) Scrum Master and Developer
-   - [WALLET API](https://github.com/AMichalMurawski/walletapp-api) | [repo](https://github.com/AMichalMurawski/walletapp-api) Scrum Master and Developer
-   - [WALLET APP](https://flourishing-sherbet-fc5f8a.netlify.app/) | [repo](https://github.com/AMichalMurawski/walletapp) Scrum Master and Developer
-   - [EVENT BOOSTER](https://ewelinamaniecka.github.io/event-booster-team-project) | [repo](https://github.com/EwelinaManiecka/event-booster-team-project) Scrum Master and Developer 
-   - [IceCream website](https://luizaraczylo.github.io/project-team6/) | [repo](https://github.com/LuizaRaczylo/project-team6) Developer  
+   - [UWAGA! SMARTFON](https://us.uwagasmartfon.pl/) | [repo](https://github.com/barteknr1/uwaga-smartfon) Scrum Master and Frontend Developer
+   - [WALLET API](https://github.com/AMichalMurawski/walletapp-api) | [repo](https://github.com/AMichalMurawski/walletapp-api) Scrum Master and Bakcend Developer
+   - [WALLET APP](https://flourishing-sherbet-fc5f8a.netlify.app/) | [repo](https://github.com/AMichalMurawski/walletapp) Scrum Master and Frotnend Developer
+   - [EVENT BOOSTER](https://ewelinamaniecka.github.io/event-booster-team-project) | [repo](https://github.com/EwelinaManiecka/event-booster-team-project) Scrum Master and Frotnend Developer 
+   - [IceCream website](https://luizaraczylo.github.io/project-team6/) | [repo](https://github.com/LuizaRaczylo/project-team6) Frontend Developer  
 - 💻 Personal projects:
    - React Native + Expo + Nativewind:
       - [IMG-FORGE](https://github.com/PiotrDrechsler/img-forge) (wip)
