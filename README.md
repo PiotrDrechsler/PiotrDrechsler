@@ -1,4 +1,4 @@
-### <div align="center">I'm Piotr, Javascript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: React.js, React Native, JavaScript, TypeScript, Next.js, Zustand, Tailwind, Node.js, CSS3 and HTML5</div> 
+### <div align="center">I'm Piotr, Javascript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: React.js, React Native, Next.js, JavaScript, TypeScript, Next.js, Zustand, Tailwind, Node.js, CSS3 and HTML5</div> 
   
 - 🔭 Right now I'm working wih my team on [BUTEM PO MIEŚCIE](https://butempomiescie.pl/) | [frotnend repo](https://github.com/butempomiesciepoznan/butem-nuxt/wiki) and [backend repo](https://github.com/butempomiesciepoznan/butem-bedrock-wp/wiki) Fullstack Developer
 - 🌽 Group projects I've participated in:
