@@ -1,6 +1,9 @@
 ### <div align="center">I'm Piotr, Javascript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: React.js, React Native, JavaScript, TypeScript, Next.js, Zustand, Tailwind, Node.js, CSS3 and HTML5</div> 
   
-- 🔭 Right now I'm working wih my team on [BUTEM PO MIEŚCIE](https://butempomiescie.pl/) | [frotnend repo](https://github.com/butempomiesciepoznan/butem-nuxt/wiki) and [backend repo](https://github.com/butempomiesciepoznan/butem-bedrock-wp/wiki) Fullstack Developer
+- 🔭 Right now I'm working wih my team on:
+    - [BUTEM PO MIEŚCIE](https://butempomiescie.pl/) | [frotnend repo](https://github.com/butempomiesciepoznan/butem-nuxt/wiki) and [backend repo](https://github.com/butempomiesciepoznan/butem-bedrock-wp/wiki) Fullstack Developer
+And second team project:
+    - [Spoondog](https://spoondog.vercel.app/) | [frontend repo](https://github.com/PiotrDrechsler/spoondog) Frontend Developer
 - 🌽 Group projects I've participated in:
    - [HEMATORUN CHARITY EVENT](https://jolly-island-02c410b1e.5.azurestaticapps.net/) | [frotnend repo](https://github.com/Astrix1234/charity-run) and [backend repo](https://github.com/Astrix1234/charity-run-backend) Scrum Master and Fullstack Developer
    - [UWAGA! SMARTFON](https://us.uwagasmartfon.pl/) | [repo](https://github.com/barteknr1/uwaga-smartfon) Scrum Master and Frontend Developer
