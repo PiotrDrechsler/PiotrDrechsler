@@ -1,4 +1,4 @@
-### <div align="center">I'm Piotr, Javascript Fullstack Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: React.js, React Native, JavaScript, TypeScript, Next.js, Zustand, Tailwind, Node.js, CSS3 and HTML5</div> 
+### <div align="center">I'm Piotr, Frontend Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: React.js, React Native, JavaScript, TypeScript, Next.js, Zustand, Tailwind, Node.js, CSS3 and HTML5</div> 
 
 - 🔭 Comercial projects - WIP! 
 - 🔭 Right now I'm working wih my team on:
