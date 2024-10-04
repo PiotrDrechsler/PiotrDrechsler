@@ -5,7 +5,6 @@
      - [MARCINEK PROJEKTY](https://www.marcinekprojekty.pl/) | [PageSpeed Insights Score](https://pagespeed.web.dev/analysis/https-www-marcinekprojekty-pl/1p9s3bzzhs?hl=pl&form_factor=mobile) Frontend Developer
     
 - 🔭 Right now I'm working wih my team on:
- 
     - [SPOONDOG](https://spoondog.vercel.app/) | [frontend repo](https://github.com/PiotrDrechsler/spoondog) Frontend Developer  
     - [BUTEM PO MIEŚCIE](https://butempomiescie.pl/) | [frotnend repo](https://github.com/butempomiesciepoznan/butem-nuxt/wiki) and [backend repo](https://github.com/butempomiesciepoznan/butem-bedrock-wp/wiki) Fullstack Developer
    
@@ -38,7 +37,7 @@
       - [Image Gallery](https://piotrdrechsler.github.io/goit-js-hw-08/01-gallery.html) | [repo](https://github.com/PiotrDrechsler/goit-js-hw-08)
    - HTML + CSS:
       - [WebStudio Website](https://piotrdrechsler.github.io/goit-markup-hw-08/) | [repo](https://github.com/PiotrDrechsler/goit-markup-hw-08)
-- 🌱 I’m currently learning Next.js.
+- 🌱 I’m currently mastering my skill in Next.js.
 - ⚡ Fun fact: I get emotional when I watch the ending of "Revenge of the Sith".
   
 <br/>  
