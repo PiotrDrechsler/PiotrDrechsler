@@ -14,7 +14,7 @@
    - [WALLET API](https://github.com/AMichalMurawski/walletapp-api) | [repo](https://github.com/AMichalMurawski/walletapp-api) Scrum Master and Bakcend Developer
    - [WALLET APP](https://flourishing-sherbet-fc5f8a.netlify.app/) | [repo](https://github.com/AMichalMurawski/walletapp) Scrum Master and Frotnend Developer
    - [EVENT BOOSTER](https://ewelinamaniecka.github.io/event-booster-team-project) | [repo](https://github.com/EwelinaManiecka/event-booster-team-project) Scrum Master and Frotnend Developer 
-   - [ICECREAM](https://luizaraczylo.github.io/project-team6/) | [repo](https://github.com/LuizaRaczylo/project-team6) Frontend Developer  
+   - [ICE CREAM](https://luizaraczylo.github.io/project-team6/) | [repo](https://github.com/LuizaRaczylo/project-team6) Frontend Developer  
 - 💻 Personal projects:
    - React Native + Expo + Nativewind:
       - [IMG-FORGE](https://github.com/PiotrDrechsler/img-forge) (wip)
