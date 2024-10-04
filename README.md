@@ -1,9 +1,14 @@
 ### <div align="center">I'm Piotr, Frontend Developer. My journey with programming started when I finally realised that I love to solve problems with creativity! My tools of choice for now are mostly: React.js, React Native, JavaScript, TypeScript, Next.js, Zustand, Tailwind, Node.js, CSS3 and HTML5</div> 
 
-- 🔭 Comercial projects - WIP! 
+- 🔭 Comercial projects:
+     - [MEMERO](https://staging.memero.pl/) | Frontend Developer
+     - [MARCINEK PROJEKTY](https://www.marcinekprojekty.pl/) | [PageSpeed Insights Score](https://pagespeed.web.dev/analysis/https-www-marcinekprojekty-pl/1p9s3bzzhs?hl=pl&form_factor=mobile) Frontend Developer
+    
 - 🔭 Right now I'm working wih my team on:
+ 
+    - [SPOONDOG](https://spoondog.vercel.app/) | [frontend repo](https://github.com/PiotrDrechsler/spoondog) Frontend Developer  
     - [BUTEM PO MIEŚCIE](https://butempomiescie.pl/) | [frotnend repo](https://github.com/butempomiesciepoznan/butem-nuxt/wiki) and [backend repo](https://github.com/butempomiesciepoznan/butem-bedrock-wp/wiki) Fullstack Developer
-    - [SPOONDOG](https://spoondog.vercel.app/) | [frontend repo](https://github.com/PiotrDrechsler/spoondog) Frontend Developer
+   
 - 🌽 Group projects I've participated in:
    - [HEMATORUN CHARITY EVENT](https://jolly-island-02c410b1e.5.azurestaticapps.net/) | [frotnend repo](https://github.com/Astrix1234/charity-run) and [backend repo](https://github.com/Astrix1234/charity-run-backend) Scrum Master and Fullstack Developer
    - [UWAGA! SMARTFON](https://us.uwagasmartfon.pl/) | [repo](https://github.com/barteknr1/uwaga-smartfon) Scrum Master and Frontend Developer
