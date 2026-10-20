@@ -79,6 +79,8 @@ A community-oriented project focused on preserving and sharing historical inform
 - Worked on accessibility and responsive layouts
 - Supported hosting and deployment
 
+- [View repository](https://github.com/AK1944-Team/AK1944)
+
 ### 🐶 [SpoonDog](https://spoondog.vercel.app/)
 **React · Frontend Development**
 
