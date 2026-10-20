@@ -72,7 +72,7 @@ Working on a SaaS application supporting judicial bailiffs in Poland.
 - Improved rendering and performance, including Core Web Vitals
 - Added tests and reusable components
 
-### 🏛️ [AK1944 — Historical Website](https://www.marcinekprojekty.pl/)
+### 🏛️ [AK1944 — Historical Website](https://www.ak1944.pl/)
 A community-oriented project focused on preserving and sharing historical information about Polish Home Army soldiers.
 
 - Developed responsive frontend interfaces based on Figma designs
