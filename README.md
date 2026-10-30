@@ -94,7 +94,7 @@ A web project built with React.
 
 [View repository](https://github.com/PiotrDrechsler/spoondog)
 
-### 🏙️ [Butem po Mieście](https://butempomiescie.pl/)
+### 🏙️ [Butem po Mieście](https://github.com/butempomiesciepoznan/butem-nuxt)
 A web project built for exploring a city on foot.
 
 - [Frontend repository](https://github.com/butempomiesciepoznan/butem-nuxt/wiki)
