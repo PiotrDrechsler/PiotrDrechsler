@@ -2,7 +2,13 @@
 
 ### Frontend-focused Fullstack Developer | React · Next.js · .NET · AI-assisted Development
 
-I'm a developer with **3+ years of commercial experience** building and maintaining web applications. I enjoy creating clean, responsive interfaces, developing reusable components, integrating REST APIs, and improving existing codebases.
+Frontend-focused Fullstack Developer with 3+ years of commercial experience.
+
+My main technologies include JavaScript, TypeScript, React.js, Next.js, Nuxt 3 (Vue 3), Node.js, .NET and WordPress.
+
+I enjoy building maintainable web applications, designing reusable UI components and solving complex problems with clean, well-structured code.
+
+I'm also experienced in working with REST APIs, SQL databases, automated testing and AI-assisted development.
 
 I also use **Claude Code and AI-assisted development tools** to speed up implementation, explore solutions, and improve development workflows — while keeping code quality and maintainability in focus.
 
